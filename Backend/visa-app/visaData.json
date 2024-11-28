@@ -1,0 +1,599 @@
+{
+    "United States": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa (B1/B2)",
+                "duration": "Up to 6 months",
+                "requirements": [
+                    "Valid passport",
+                    "Proof of sufficient funds",
+                    "Return ticket",
+                    "No criminal record"
+                ]
+            },
+            {
+                "name": "Work Visa (H1B)",
+                "duration": "Up to 3 years",
+                "requirements": [
+                    "Job offer from US employer",
+                    "Specialized skills",
+                    "Bachelor's degree"
+                ]
+            }
+        ]
+    },
+    "Canada": {
+        "visaTypes": [
+            {
+                "name": "Visitor Visa",
+                "duration": "Up to 6 months",
+                "requirements": [
+                    "Valid passport",
+                    "Proof of financial support",
+                    "Travel itinerary",
+                    "No criminal history"
+                ]
+            }
+        ]
+    },
+    "Germany": {
+        "visaTypes": [
+            {
+                "name": "Schengen Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Travel insurance",
+                    "Hotel booking",
+                    "Financial proof"
+                ]
+            },
+            {
+                "name": "Work Visa",
+                "duration": "Up to 2 years",
+                "requirements": [
+                    "Job offer from German company",
+                    "Relevant qualifications",
+                    "Language proficiency (German/English)"
+                ]
+            }
+        ]
+    },
+    "Australia": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa (Subclass 600)",
+                "duration": "Up to 12 months",
+                "requirements": [
+                    "Valid passport",
+                    "Proof of funds",
+                    "Return flight ticket",
+                    "Health check"
+                ]
+            },
+            {
+                "name": "Student Visa (Subclass 500)",
+                "duration": "Up to 5 years",
+                "requirements": [
+                    "Letter of offer from Australian institution",
+                    "Evidence of sufficient funds",
+                    "Health and character requirements"
+                ]
+            }
+        ]
+    },
+    "United Kingdom": {
+        "visaTypes": [
+            {
+                "name": "Standard Visitor Visa",
+                "duration": "Up to 6 months",
+                "requirements": [
+                    "Valid passport",
+                    "Proof of financial support",
+                    "Travel itinerary",
+                    "Accommodation details"
+                ]
+            },
+            {
+                "name": "Tier 2 General Visa",
+                "duration": "Up to 5 years",
+                "requirements": [
+                    "Job offer from a UK employer",
+                    "Sponsorship certificate",
+                    "English proficiency"
+                ]
+            }
+        ]
+    },
+    "France": {
+        "visaTypes": [
+            {
+                "name": "Short Stay Schengen Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Proof of accommodation",
+                    "Travel insurance",
+                    "Proof of financial means"
+                ]
+            },
+            {
+                "name": "Work Visa",
+                "duration": "Up to 1 year",
+                "requirements": [
+                    "Job offer from a French employer",
+                    "Labor market test",
+                    "Proof of qualifications"
+                ]
+            }
+        ]
+    },
+    "China": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa (L Visa)",
+                "duration": "Up to 30 days",
+                "requirements": [
+                    "Valid passport",
+                    "Proof of travel itinerary",
+                    "Hotel reservation",
+                    "Round-trip ticket"
+                ]
+            },
+            {
+                "name": "Business Visa (M Visa)",
+                "duration": "Up to 1 year",
+                "requirements": [
+                    "Invitation letter from Chinese company",
+                    "Business meeting proof",
+                    "Company registration documents"
+                ]
+            }
+        ]
+    },
+    "Italy": {
+        "visaTypes": [
+            {
+                "name": "Schengen Tourist Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Travel insurance",
+                    "Proof of accommodation",
+                    "Sufficient financial means"
+                ]
+            },
+            {
+                "name": "Work Visa",
+                "duration": "Up to 2 years",
+                "requirements": [
+                    "Job offer from Italian employer",
+                    "Work permit",
+                    "Proof of qualifications"
+                ]
+            }
+        ]
+    },
+    "Spain": {
+        "visaTypes": [
+            {
+                "name": "Schengen Tourist Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Travel insurance",
+                    "Proof of accommodation",
+                    "Sufficient financial resources"
+                ]
+            },
+            {
+                "name": "Work Visa",
+                "duration": "Up to 1 year",
+                "requirements": [
+                    "Job offer from Spanish employer",
+                    "Work permit",
+                    "Proof of professional qualifications"
+                ]
+            }
+        ]
+    },
+    "Japan": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Financial proof",
+                    "Flight details",
+                    "Accommodation details"
+                ]
+            },
+            {
+                "name": "Work Visa",
+                "duration": "Up to 5 years",
+                "requirements": [
+                    "Job offer from a Japanese employer",
+                    "Relevant degree or skills",
+                    "Proof of employment history"
+                ]
+            }
+        ]
+    },
+    "India": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 6 months",
+                "requirements": [
+                    "Valid passport",
+                    "Proof of financial support",
+                    "Return ticket",
+                    "Hotel booking"
+                ]
+            },
+            {
+                "name": "Employment Visa",
+                "duration": "Up to 1 year",
+                "requirements": [
+                    "Job offer from Indian employer",
+                    "Relevant qualifications",
+                    "Proof of employment"
+                ]
+            }
+        ]
+    },
+    "Brazil": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Proof of sufficient funds",
+                    "Return flight ticket",
+                    "No criminal record"
+                ]
+            },
+            {
+                "name": "Work Visa",
+                "duration": "Up to 2 years",
+                "requirements": [
+                    "Job offer from a Brazilian employer",
+                    "Specialized skills",
+                    "Proof of qualifications"
+                ]
+            }
+        ]
+    },
+    "South Korea": {
+            "visaTypes": [
+                {
+                    "name": "Tourist Visa",
+                    "duration": "Up to 90 days",
+                    "requirements": [
+                        "Valid passport",
+                        "Financial proof",
+                        "Travel itinerary",
+                        "Accommodation details"
+                    ]
+                },
+                {
+                    "name": "Work Visa",
+                    "duration": "Up to 5 years",
+                    "requirements": [
+                        "Job offer from a Korean employer",
+                        "Relevant qualifications",
+                        "Korean language skills (optional)"
+                    ]
+                }
+            ]
+        },
+        "Switzerland": {
+        "visaTypes": [
+            {
+                "name": "Schengen Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Travel insurance",
+                    "Proof of accommodation",
+                    "Financial proof"
+                ]
+            }
+        ]
+    },
+    "South Africa": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Proof of financial means",
+                    "Return flight ticket",
+                    "Hotel booking"
+                ]
+            }
+        ]
+    },
+    "New Zealand": {
+        "visaTypes": [
+            {
+                "name": "Visitor Visa",
+                "duration": "Up to 9 months",
+                "requirements": [
+                    "Valid passport",
+                    "Travel itinerary",
+                    "Proof of financial support",
+                    "Health insurance"
+                ]
+            }
+        ]
+    },
+    "Russia": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 30 days",
+                "requirements": [
+                    "Valid passport",
+                    "Invitation letter",
+                    "Hotel confirmation",
+                    "Travel itinerary"
+                ]
+            }
+        ]
+    },
+    "Singapore": {
+        "visaTypes": [
+            {
+                "name": "Short-Term Visit Pass",
+                "duration": "Up to 30 days",
+                "requirements": [
+                    "Valid passport",
+                    "Onward travel ticket",
+                    "Proof of sufficient funds"
+                ]
+            }
+        ]
+    },
+    "Thailand": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 60 days",
+                "requirements": [
+                    "Valid passport",
+                    "Return flight ticket",
+                    "Proof of financial means",
+                    "Accommodation details"
+                ]
+            }
+        ]
+    },
+    "United Arab Emirates": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Proof of accommodation",
+                    "Return ticket",
+                    "Financial proof"
+                ]
+            }
+        ]
+    },
+    "Turkey": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Proof of accommodation",
+                    "Travel insurance",
+                    "Return ticket"
+                ]
+            }
+        ]
+    },
+    "Malaysia": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 30 days",
+                "requirements": [
+                    "Valid passport",
+                    "Onward travel ticket",
+                    "Proof of financial support"
+                ]
+            }
+        ]
+    },
+    "Indonesia": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 60 days",
+                "requirements": [
+                    "Valid passport",
+                    "Proof of accommodation",
+                    "Return flight ticket",
+                    "Financial means"
+                ]
+            }
+        ]
+    },
+    "South Africa": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Proof of financial means",
+                    "Return flight ticket",
+                    "Hotel booking"
+                ]
+            }
+        ]
+    },
+    "Kenya": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Return flight ticket",
+                    "Proof of funds",
+                    "Accommodation details"
+                ]
+            }
+        ]
+    },
+    "Nigeria": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Invitation letter",
+                    "Return ticket",
+                    "Bank statement"
+                ]
+            }
+        ]
+    },
+    "Ghana": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Visa application form",
+                    "Proof of funds",
+                    "Yellow fever certificate"
+                ]
+            }
+        ]
+    },
+    "Tanzania": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Return ticket",
+                    "Visa application form",
+                    "Proof of sufficient funds"
+                ]
+            }
+        ]
+    },
+    "Morocco": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Travel itinerary",
+                    "Accommodation proof",
+                    "Financial resources"
+                ]
+            }
+        ]
+    },
+    "Thailand": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 60 days",
+                "requirements": [
+                    "Valid passport",
+                    "Return flight ticket",
+                    "Proof of financial means",
+                    "Accommodation details"
+                ]
+            }
+        ]
+    },
+    "Rwanda": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 30 days",
+                "requirements": [
+                    "Valid passport",
+                    "Visa application form",
+                    "Yellow fever vaccination certificate (if required)",
+                    "Proof of accommodation"
+                ]
+            },
+            {
+                "name": "East African Tourist Visa",
+                "duration": "Up to 90 days",
+                "requirements": [
+                    "Valid passport",
+                    "Travel itinerary",
+                    "Proof of funds",
+                    "One visa allows entry to Rwanda, Kenya, Tanzania, Ethiopia and Uganda"
+                ]
+            }
+        ]
+    },
+    "Mexico": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 180 days",
+                "requirements": [
+                    "Valid passport",
+                    "Proof of sufficient funds",
+                    "Return ticket",
+                    "Hotel reservation"
+                ]
+            },
+            {
+                "name": "Work Visa",
+                "duration": "Up to 1 year",
+                "requirements": [
+                    "Job offer from Mexican employer",
+                    "Work permit",
+                    "Professional credentials"
+                ]
+            }
+        ]
+    },
+
+    "uganda": {
+        "visaTypes": [
+            {
+                "name": "Tourist Visa",
+                "duration": "Up to 300 days",
+                "requirements": [
+                    "Valid passport",
+                    "Proof of sufficient funds",
+                    "Return ticket",
+                    "Hotel reservation"
+                ]
+            },
+            {
+                "name": "Work Visa",
+                "duration": "Up to 7 year",
+                "requirements": [
+                    "Job offer from Mexican employer",
+                    "Work permit",
+                    "Professional credentials"
+                ]
+            }
+        ]
+    }
+}
